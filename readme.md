@@ -1,1 +1,0 @@
-Sample app for CI/CD running at port 3000
